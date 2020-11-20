@@ -1,12 +1,13 @@
-﻿{
-    "name": "test BOM clone",
+{
+    "name": "test BOM clonEEE",
     "description": "",
     "dependencies": {
         "device": "*"
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.blocks"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +19,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
